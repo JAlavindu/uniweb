@@ -1,0 +1,48 @@
+.up-down-votes {
+  height: 98px;
+  width: 257px;
+}
+
+.up-down-votes .overlap-group-2 {
+  height: 98px;
+  position: relative;
+  top: -1px;
+}
+
+.up-down-votes .div-4 {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 257px;
+}
+
+.up-down-votes .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+  width: 134px;
+}
+
+.up-down-votes .text-wrapper-4 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 73px;
+  font-weight: 100;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}

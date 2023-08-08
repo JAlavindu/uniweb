@@ -1,0 +1,1 @@
+export { Downvote } from "./Downvote";

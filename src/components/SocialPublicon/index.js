@@ -1,0 +1,1 @@
+export { SocialPublicon } from "./SocialPublicon";

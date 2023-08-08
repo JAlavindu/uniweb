@@ -1,0 +1,1 @@
+export { ActionStarRate } from "./ActionStarRate";

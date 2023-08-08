@@ -1,0 +1,95 @@
+.reaction-bar {
+  height: 98px;
+  position: relative;
+  width: 1052px;
+}
+
+.reaction-bar .text-wrapper-5 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 849px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  width: 98px;
+}
+
+.reaction-bar .share-instance {
+  left: 798px !important;
+  top: 35px !important;
+  width: 42px !important;
+}
+
+.reaction-bar .text-wrapper-6 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1006px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  width: 63px;
+}
+
+.reaction-bar .star-instance {
+  left: 950px !important;
+  top: 31px !important;
+  width: 47px !important;
+}
+
+.reaction-bar .text-wrapper-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  width: 63px;
+}
+
+.reaction-bar .heart-instance {
+  top: 33px !important;
+  width: 46px !important;
+}
+
+.reaction-bar .UP-down-votes {
+  left: 118px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 265px !important;
+}
+
+.reaction-bar .up-down-votes-instance {
+  background-color: #eaf3fc !important;
+  width: 265px !important;
+}
+
+.reaction-bar .design-component-instance-node {
+  left: 66px !important;
+  width: 138px !important;
+}
+
+.reaction-bar .UP-down-votes-2 {
+  left: 176px !important;
+  width: 18px !important;
+}
+
+.reaction-bar .UP-down-votes-3 {
+  left: 193px !important;
+  top: 32px !important;
+  width: 46px !important;
+}
+
+.reaction-bar .UP-down-votes-4 {
+  left: 14px !important;
+  top: 32px !important;
+  width: 46px !important;
+}

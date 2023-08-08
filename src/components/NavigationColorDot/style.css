@@ -1,0 +1,13 @@
+.navigation-color-dot {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.navigation-color-dot .icon-9 {
+  height: 14px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 14px;
+}

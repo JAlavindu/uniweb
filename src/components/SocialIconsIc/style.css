@@ -1,0 +1,13 @@
+.social-icons-ic {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.social-icons-ic .icon-4 {
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}

@@ -1,0 +1,13 @@
+.navigation-menu {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.navigation-menu .icon-7 {
+  height: 12px;
+  left: 6px;
+  position: absolute;
+  top: 9px;
+  width: 18px;
+}

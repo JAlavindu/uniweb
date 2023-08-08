@@ -1,0 +1,13 @@
+.navigation-more {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.navigation-more .icon-8 {
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}

@@ -1,0 +1,1058 @@
+.home-feed {
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-feed .div-5 {
+  background-color: #f3f2ef;
+  border: 1px none;
+  height: 2185px;
+  position: relative;
+  width: 2390px;
+}
+
+.home-feed .creat-post {
+  background-color: var(--secondary-colorbackground);
+  border-radius: 10px;
+  height: 237px;
+  left: 544px;
+  position: absolute;
+  top: 192px;
+  width: 1108px;
+}
+
+.home-feed .overlap-2 {
+  height: 189px;
+  left: 12px;
+  position: relative;
+  top: 17px;
+  width: 1114px;
+}
+
+.home-feed .search-bar-wrapper {
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1114px;
+}
+
+.home-feed .search-bar {
+  align-items: flex-start;
+  background-color: var(--secondary-colorsecondary-6);
+  border-radius: 20.3px;
+  display: flex;
+  gap: 14.31px;
+  height: 106px;
+  left: 131px;
+  padding: 17.17px 0px 17.17px 17.17px;
+  position: relative;
+  width: 932px;
+}
+
+.home-feed .p {
+  color: var(--secondary-colorsecondary-4);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  margin-top: -1.43px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-feed .polls-instance {
+  left: 850px !important;
+  position: absolute !important;
+  top: 112px !important;
+}
+
+.home-feed .ellipse {
+  height: 100px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100px;
+}
+
+.home-feed .overlap-wrapper {
+  height: 68px;
+  left: 707px;
+  position: absolute;
+  top: 121px;
+  width: 163px;
+}
+
+.home-feed .overlap-3 {
+  background-color: #dfeaf7;
+  border-radius: 20px;
+  height: 68px;
+  position: relative;
+  width: 161px;
+}
+
+.home-feed .text-wrapper-14 {
+  color: #1c274c;
+  font-family: "Rubik", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: 28.2px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.home-feed .vector-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cbbcb22f2ce0bedaa37319e70672751a/img/vector-1.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 21px;
+  position: absolute;
+  top: 12px;
+  width: 47px;
+}
+
+.home-feed .vector-2 {
+  height: 33px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.home-feed .top-ribbon {
+  background-color: #dfeaf7;
+  height: 135px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2390px;
+}
+
+.home-feed .search-bar-ribbon {
+  border: unset !important;
+  border-color: unset !important;
+  height: 85px !important;
+  left: 656px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 874px !important;
+}
+
+.home-feed .input-instance {
+  color: var(--gray-bluegrey-blue-80) !important;
+  font-family: "Roboto", Helvetica !important;
+  font-size: 28px !important;
+  font-style: unset !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+  margin-top: unset !important;
+}
+
+.home-feed .top-buttons-bar {
+  height: 94px;
+  left: 1564px;
+  position: absolute;
+  top: 18px;
+  width: 769px;
+}
+
+.home-feed .overlap-4 {
+  height: 94px;
+  left: 405px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.home-feed .notific {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 90px !important;
+}
+
+.home-feed .icon-10 {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: unset !important;
+  width: unset !important;
+}
+
+.home-feed .social-notifications-instance {
+  height: 46px !important;
+  left: 16px !important;
+  top: 12px !important;
+  width: 35px !important;
+}
+
+.home-feed .status-instance {
+  background-color: #8978f2 !important;
+  border: unset !important;
+  border-color: unset !important;
+  height: 25px !important;
+  left: 67px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.home-feed .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.home-feed .starred {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 540px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 90px !important;
+}
+
+.home-feed .action-star-rate-instance {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: unset !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.home-feed .overlap-group-3 {
+  height: 94px;
+  left: 270px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.home-feed .msgs {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  opacity: 0.9 !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 90px !important;
+}
+
+.home-feed .icon-11 {
+  height: 47px !important;
+  left: 12px !important;
+  top: 12px !important;
+  width: 47px !important;
+}
+
+.home-feed .status-2 {
+  background-color: #8978f2 !important;
+  border: unset !important;
+  border-color: unset !important;
+  height: 25px !important;
+  left: 64px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.home-feed .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.home-feed .navigator {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 135px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 90px !important;
+}
+
+.home-feed .button-instance {
+  background-color: #ffffff !important;
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 90px !important;
+}
+
+.home-feed .button-2 {
+  background-color: var(--white) !important;
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 675px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 90px !important;
+}
+
+.home-feed .navigation-menu-instance {
+  height: 28px !important;
+  left: 14px !important;
+  top: 21px !important;
+  width: 42px !important;
+}
+
+.home-feed .logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cbbcb22f2ce0bedaa37319e70672751a/img/logo@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 61px;
+  left: 48px;
+  position: absolute;
+  top: 36px;
+  width: 154px;
+}
+
+.home-feed .ribbon-profile-pic {
+  height: 100px;
+  left: 521px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 100px;
+}
+
+.home-feed .post {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: var(--shadows-gray-blue-30-3-5b);
+  height: 1700px;
+  left: 549px;
+  position: absolute;
+  top: 485px;
+  width: 1106px;
+}
+
+.home-feed .user-info-bar {
+  height: 109px;
+  left: 28px;
+  position: absolute;
+  top: 24px;
+  width: 970px;
+}
+
+.home-feed .overlap-group-4 {
+  height: 69px;
+  left: 116px;
+  position: absolute;
+  top: 0;
+  width: 707px;
+}
+
+.home-feed .text-wrapper-17 {
+  color: var(--deepgrey);
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+  width: 706px;
+}
+
+.home-feed .text-wrapper-18 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 706px;
+}
+
+.home-feed .text-wrapper-19 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 109px;
+}
+
+.home-feed .text-wrapper-20 {
+  color: var(--deepgrey);
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
+  width: 283px;
+}
+
+.home-feed .ellipse-2 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.home-feed .comment-tab {
+  height: 478px;
+  left: 22px;
+  position: absolute;
+  top: 1054px;
+  width: 1066px;
+}
+
+.home-feed .overlap-5 {
+  height: 285px;
+  position: relative;
+  width: 1056px;
+}
+
+.home-feed .BG {
+  background-color: #ebf3fd;
+  border-radius: 40px 0px 40px 0px;
+  height: 274px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 1056px;
+}
+
+.home-feed .im-saying-that-you {
+  height: 56px;
+  left: 22px;
+  position: absolute;
+  top: 119px;
+  width: 945px;
+}
+
+.home-feed .UP-down-comment {
+  height: 77px;
+  left: 22px;
+  position: absolute;
+  top: 185px;
+  width: 211px;
+}
+
+.home-feed .overlap-group-5 {
+  height: 77px;
+  position: relative;
+  top: 2px;
+  width: 159px;
+}
+
+.home-feed .BG-2 {
+  background-color: #eaf3fc;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 155px;
+}
+
+.home-feed .element {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 110px;
+}
+
+.home-feed .text-wrapper-21 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 54px;
+  font-weight: 100;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.home-feed .upvote-instance {
+  height: 35px !important;
+  left: 108px !important;
+  top: 22px !important;
+  width: 37px !important;
+}
+
+.home-feed .downvote-instance {
+  height: 35px !important;
+  left: 8px !important;
+  top: 22px !important;
+  width: 37px !important;
+}
+
+.home-feed .text-wrapper-22 {
+  color: var(--deepgrey);
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+  width: 697px;
+}
+
+.home-feed .h-1 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.home-feed .text-wrapper-23 {
+  color: var(--deepgrey);
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 481px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+}
+
+.home-feed .dot {
+  background-color: var(--deepgrey);
+  border-radius: 5px;
+  height: 10px;
+  left: 458px;
+  position: absolute;
+  top: 35px;
+  width: 10px;
+}
+
+.home-feed .text-wrapper-24 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 697px;
+}
+
+.home-feed .profile {
+  height: 68px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+
+.home-feed .overlap-6 {
+  height: 578px;
+  left: 2px;
+  position: absolute;
+  top: 354px;
+  width: 1101px;
+}
+
+.home-feed .reaction-bar-instance {
+  left: 26px !important;
+  position: absolute !important;
+  top: 480px !important;
+}
+
+.home-feed .post-images {
+  height: 492px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1101px;
+}
+
+.home-feed .what-are-the-two {
+  height: 169px;
+  left: 27px;
+  position: absolute;
+  top: 156px;
+  width: 1045px;
+}
+
+.home-feed .side-bar-for-more {
+  height: 61px;
+  left: 1017px;
+  position: absolute;
+  top: 28px;
+  width: 61px;
+}
+
+.home-feed .button-3 {
+  background-color: #f7faff !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 65px !important;
+  justify-content: flex-end !important;
+  left: -2px !important;
+  top: -2px !important;
+  width: 65px !important;
+}
+
+.home-feed .navigation-more-horiz {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: unset !important;
+  margin-left: -1px !important;
+  margin-top: -1px !important;
+  width: unset !important;
+}
+
+.home-feed .navigation-more-instance {
+  height: 7px !important;
+  left: 11px !important;
+  top: 21px !important;
+  width: 26px !important;
+}
+
+.home-feed .user-comment {
+  background-color: #ebf3fd;
+  height: 78px;
+  left: 22px;
+  position: absolute;
+  top: 967px;
+  width: 1056px;
+}
+
+.home-feed .button-4 {
+  background-color: #347ae2 !important;
+  border-radius: 8.4px !important;
+  gap: 14px !important;
+  height: 46px !important;
+  left: 931px !important;
+  padding: 16.8px 22.4px !important;
+  position: absolute !important;
+  top: 15px !important;
+}
+
+.home-feed .button-5 {
+  font-family: "Poppins", Helvetica !important;
+  font-size: 19.6px !important;
+  line-height: 28px !important;
+  margin-bottom: -6.3px !important;
+  margin-top: -9.1px !important;
+}
+
+.home-feed .overlap-7 {
+  border-radius: 8.98px;
+  height: 49px;
+  left: 73px;
+  position: absolute;
+  top: 16px;
+  width: 847px;
+}
+
+.home-feed .input-data {
+  align-items: center;
+  background-color: var(--secondary-colorsecondary-6);
+  border-radius: 8.98px;
+  display: flex;
+  gap: 732.14px;
+  height: 49px;
+  left: 0;
+  padding: 17.97px;
+  position: absolute;
+  top: 0;
+  width: 847px;
+}
+
+.home-feed .text-wrapper-25 {
+  color: var(--secondary-colorsecondary-4);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32.9px;
+  margin-bottom: -8.37px;
+  margin-top: -11.37px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-feed .frame-2 {
+  height: 34px;
+  left: 803px;
+  position: absolute;
+  top: 8px;
+  width: 34px;
+}
+
+.home-feed .overlap-group-6 {
+  border: 2.38px solid;
+  border-color: #90a3c0;
+  border-radius: 17.85px;
+  height: 36px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 36px;
+}
+
+.home-feed .eyes {
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.home-feed .mouth {
+  height: 6px;
+  left: 8px;
+  position: absolute;
+  top: 20px;
+  width: 16px;
+}
+
+.home-feed .pamela {
+  height: 52px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 52px;
+}
+
+.home-feed .popular-tags {
+  background-color: var(--secondary-colorbackground);
+  border-radius: 34.99px;
+  height: 669px;
+  left: 56px;
+  position: absolute;
+  top: 603px;
+  width: 432px;
+}
+
+.home-feed .main-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 43.74px;
+  height: 693px;
+  justify-content: center;
+  left: 19px;
+  position: relative;
+  width: 391px;
+}
+
+.home-feed .title-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6.56px;
+  justify-content: space-around;
+  position: relative;
+  width: 194.64px;
+}
+
+.home-feed .text-wrapper-26 {
+  color: var(--secondary-colorsecondary-2);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 28.4px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 52.5px;
+  margin-top: -2.19px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-feed .tags {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 557.68px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.home-feed .tag {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  position: relative;
+}
+
+.home-feed .icon-12 {
+  align-items: flex-start;
+  background-color: var(--yellowyellow-10);
+  border-radius: 8.75px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  padding: 13.12px;
+  position: relative;
+}
+
+.home-feed .design-component-instance-node-2 {
+  height: 43.74px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 43.74px !important;
+}
+
+.home-feed .name {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.home-feed .text-wrapper-27 {
+  color: var(--secondary-colorsecondary-4);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 26.2px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 39.4px;
+  margin-top: -2.19px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-feed .text-wrapper-28 {
+  color: var(--secondary-colorsecondary-4);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 21.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-feed .tag-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  justify-content: center;
+  position: relative;
+}
+
+.home-feed .bitcoin-wrapper {
+  align-items: flex-start;
+  background-color: var(--redred-10);
+  border-radius: 8.75px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21.87px;
+  padding: 13.12px;
+  position: relative;
+}
+
+.home-feed .design-wrapper {
+  align-items: flex-start;
+  background-color: var(--blueblue-10);
+  border-radius: 8.75px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  padding: 13.12px;
+  position: relative;
+}
+
+.home-feed .tutorial-wrapper {
+  align-items: flex-start;
+  background-color: var(--greengreen-10);
+  border-radius: 8.75px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  padding: 13.12px;
+  position: relative;
+}
+
+.home-feed .seo-wrapper {
+  align-items: flex-start;
+  background-color: var(--purplepurple-10);
+  border-radius: 8.75px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21.87px;
+  padding: 13.12px;
+  position: relative;
+}
+
+.home-feed .sidebar-instance {
+  border-radius: 32.91px !important;
+  gap: 20.57px !important;
+  left: 56px !important;
+  padding: 20.57px !important;
+  position: absolute !important;
+  top: 192px !important;
+  width: 432px !important;
+}
+
+.home-feed .sidebar-2 {
+  gap: 20.57px !important;
+}
+
+.home-feed .sidebar-3 {
+  border-radius: 12.34px !important;
+  gap: 20.57px !important;
+  padding: 12.34px 10.29px !important;
+  width: 382.63px !important;
+}
+
+.home-feed .sidebar-4 {
+  gap: 12.34px !important;
+}
+
+.home-feed .sidebar-5 {
+  border-radius: 12.34px !important;
+  gap: 20.57px !important;
+  padding: 8.23px !important;
+}
+
+.home-feed .sidebar-6 {
+  height: 41.14px !important;
+  position: relative !important;
+  width: 41.14px !important;
+}
+
+.home-feed .sidebar-7 {
+  font-size: 12.3px !important;
+  left: 6px !important;
+  line-height: 12.3px !important;
+  top: 11px !important;
+}
+
+.home-feed .sidebar-8 {
+  height: 41px !important;
+  width: 41px !important;
+}
+
+.home-feed .sidebar-9 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cbbcb22f2ce0bedaa37319e70672751a/img/star-1-1.svg) !important;
+  height: 38px !important;
+  left: 3px !important;
+  top: 2px !important;
+  width: 36px !important;
+}
+
+.home-feed .sidebar-10 {
+  gap: 4.11px !important;
+}
+
+.home-feed .sidebar-11 {
+  margin-top: -2.06px !important;
+  white-space: unset !important;
+}
+
+.home-feed .sidebar-12 {
+  white-space: unset !important;
+}
+
+.home-feed .sidebar-13 {
+  height: 41.14px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 41.14px !important;
+}
+
+.home-feed .sidebar-14 {
+  gap: 8.23px !important;
+}
+
+.home-feed .sidebar-15 {
+  border-radius: 4.11px !important;
+  gap: 20.57px !important;
+  padding: 6.17px 12.34px !important;
+}

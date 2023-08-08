@@ -1,0 +1,13 @@
+.action-search {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.action-search .icon {
+  height: 17px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}

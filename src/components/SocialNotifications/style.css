@@ -1,0 +1,13 @@
+.social-notifications {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.social-notifications .icon-2 {
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}

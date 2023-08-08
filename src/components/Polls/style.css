@@ -1,0 +1,60 @@
+.polls {
+  height: 55px;
+  width: 55px;
+}
+
+.polls .overlap-group-wrapper {
+  height: 68px;
+  left: 53px;
+  position: relative;
+  top: 11px;
+  width: 162px;
+}
+
+.polls .overlap-group {
+  background-color: #dfeaf7;
+  border-radius: 20px;
+  height: 68px;
+  position: relative;
+  width: 160px;
+}
+
+.polls .overlap {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cbbcb22f2ce0bedaa37319e70672751a/img/vector-7.svg);
+  background-size: 100% 100%;
+  height: 49px;
+  left: 15px;
+  position: absolute;
+  top: 8px;
+  width: 46px;
+}
+
+.polls .vector {
+  height: 10px;
+  left: 15px;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+
+.polls .img {
+  height: 3px;
+  left: 11px;
+  position: absolute;
+  top: 31px;
+  width: 25px;
+}
+
+.polls .text-wrapper {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: 28.2px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+  width: 61px;
+}

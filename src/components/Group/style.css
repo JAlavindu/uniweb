@@ -1,0 +1,27 @@
+.group {
+  height: 20px;
+  width: 20px;
+}
+
+.group .div-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cbbcb22f2ce0bedaa37319e70672751a/img/star-1-2.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 18px;
+}
+
+.group .text-wrapper-8 {
+  color: var(--secondary-colorbackground);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 6px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 6px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}

@@ -1,0 +1,963 @@
+.input {
+  display: flex;
+  position: relative;
+}
+
+.input .text {
+  color: var(--gray-bluegrey-blue-70);
+  position: relative;
+  white-space: nowrap;
+}
+
+.input .div {
+  color: var(--gray-bluegrey-blue-70);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .text-2 {
+  position: relative;
+}
+
+.input .text-3 {
+  color: var(--gray-bluegrey-blue-70);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .navigation-color-dot-3 {
+  margin-bottom: -3px !important;
+  margin-top: -5px !important;
+}
+
+.input .class {
+  margin-bottom: -8px !important;
+  margin-top: -10px !important;
+}
+
+.input .label {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.input .label-2 {
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .div-2 {
+  align-items: center;
+  align-self: stretch;
+  border: 2px solid;
+  box-shadow: var(--shadows-gray-blue-30-3-5b);
+  display: flex;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.input .class-2 {
+  height: 11px !important;
+  left: 6px !important;
+  top: 6px !important;
+  width: 11px !important;
+}
+
+.input .class-3 {
+  height: 24px !important;
+  margin-bottom: -5px !important;
+  margin-top: -7px !important;
+  width: 24px !important;
+}
+
+.input .text-4 {
+  color: var(--gray-bluegrey-blue-70);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .text-5 {
+  position: relative;
+}
+
+.input .text-6 {
+  color: var(--gray-bluegrey-blue-70);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input.label-false {
+  align-items: center;
+  border: 2px solid;
+  box-shadow: var(--shadows-gray-blue-30-3-5b);
+  width: 182px;
+}
+
+.input.label-true {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.input.rectangle.label-false {
+  border-radius: 5px;
+}
+
+.input.label-false.left-icon {
+  gap: 10px;
+}
+
+.input.label-false.small {
+  height: 42px;
+}
+
+.input.label-false.right-icon {
+  justify-content: space-between;
+}
+
+.input.label-false.dark {
+  background-color: var(--gray-bluegrey-blue-25);
+  border-color: var(--gray-bluegrey-blue-35);
+}
+
+.input.default.label-false {
+  gap: 10px;
+}
+
+.input.small.label-true {
+  gap: 10px;
+}
+
+.input.default.left-icon {
+  gap: 10px;
+}
+
+.input.rounded.label-true {
+  width: 180px;
+}
+
+.input.default.label-false {
+  height: 52px;
+}
+
+.input.small.left-icon {
+  gap: 10px;
+}
+
+.input.two-icons.label-false {
+  justify-content: space-between;
+}
+
+.input.label-false.large {
+  height: 62px;
+}
+
+.input.rounded.label-false {
+  border-radius: 30px;
+}
+
+.input.label-true.light {
+  width: 180px;
+}
+
+.input.label-true.large {
+  gap: 20px;
+  height: 100px;
+}
+
+.input.default.default {
+  gap: 10px;
+}
+
+.input.default.label-true {
+  gap: 10px;
+  width: 180px;
+}
+
+.input.label-false.light {
+  background-color: var(--whitewhite);
+  border-color: var(--gray-bluegrey-blue-97);
+}
+
+.input.default.small {
+  gap: 10px;
+}
+
+.input.rounded.label-false.small.left-icon {
+  padding: 15px;
+}
+
+.input.rectangle.dark.small.label-true {
+  width: 181px;
+}
+
+.input.default.default.label-false.rectangle {
+  padding: 20px 25px 20px 15px;
+}
+
+.input.rectangle.label-false.small.right-icon {
+  padding: 15px 10px 15px 15px;
+}
+
+.input.rectangle.label-false.large.left-icon {
+  padding: 15px 40px 15px 15px;
+}
+
+.input.rectangle.dark.label-true.large {
+  width: 179px;
+}
+
+.input.rounded.label-false.large.left-icon {
+  padding: 15px 40px 15px 25px;
+}
+
+.input.rounded.label-false.large.right-icon {
+  padding: 15px 25px 15px 30px;
+}
+
+.input.rectangle.label-false.small.left-icon {
+  padding: 15px 15px 15px 10px;
+}
+
+.input.two-icons.rounded.small.label-false {
+  padding: 15px;
+}
+
+.input.two-icons.rectangle.label-false.large {
+  padding: 15px;
+}
+
+.input.large.rectangle.label-false.right-icon {
+  padding: 15px 15px 15px 20px;
+}
+
+.input.rounded.default.label-false.left-icon {
+  padding: 15px 40px 15px 20px;
+}
+
+.input.rounded.default.default.label-false {
+  padding: 20px 25px;
+}
+
+.input.rounded.label-false.small.right-icon {
+  padding: 15px 15px 15px 20px;
+}
+
+.input.two-icons.rounded.label-false.large {
+  padding: 15px 25px;
+}
+
+.input.two-icons.default.rounded.label-false {
+  padding: 15px 20px;
+}
+
+.input.default.label-false.large.rectangle {
+  padding: 20px 30px 20px 20px;
+}
+
+.input.default.rectangle.label-false.left-icon {
+  padding: 15px 40px 15px 10px;
+}
+
+.input.two-icons.rectangle.label-false.small {
+  padding: 15px 10px;
+}
+
+.input.label-false.default.rounded.right-icon {
+  padding: 15px 20px 15px 25px;
+}
+
+.input.rounded.default.label-false.small {
+  padding: 20px;
+}
+
+.input.rounded.default.label-false.large {
+  padding: 20px 30px;
+}
+
+.input.default.rectangle.label-false.right-icon {
+  padding: 15px;
+}
+
+.input.default.label-false.small.rectangle {
+  padding: 20px 20px 20px 15px;
+}
+
+.input.dark.label-false.two-icons.default.rectangle {
+  padding: 15px;
+}
+
+.input.label-false.two-icons.default.rectangle.light {
+  padding: 15px 10px;
+}
+
+.input.label-true.two-icons.rounded.light.small {
+  height: 70px;
+}
+
+.input.default.default.rounded.light.label-true {
+  height: 80px;
+}
+
+.input.dark.default.rectangle.left-icon.label-true {
+  justify-content: center;
+}
+
+.input.label-true.rounded.right-icon.light.small {
+  height: 70px;
+}
+
+.input.large .text {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.small .text {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+  margin-bottom: -7px;
+  margin-top: -11px;
+}
+
+.input.default .text {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.dark .text {
+  width: fit-content;
+}
+
+.input.rectangle .text {
+  width: fit-content;
+}
+
+.input.rounded.light .text {
+  height: 20px;
+}
+
+.input.default.rounded.light .text {
+  width: 130px;
+}
+
+.input.rounded.large.light .text {
+  width: 120px;
+}
+
+.input.rounded.small.light .text {
+  width: 140px;
+}
+
+.input.large .div {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.default .div {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.small .div {
+  font-family: var(--black-black-10-font-family);
+  font-size: var(--black-black-10-font-size);
+  font-style: var(--black-black-10-font-style);
+  font-weight: var(--black-black-10-font-weight);
+  letter-spacing: var(--black-black-10-letter-spacing);
+  line-height: var(--black-black-10-line-height);
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.two-icons .text-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.input.right-icon .text-2 {
+  color: var(--gray-bluegrey-blue-70);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input.two-icons.default .text-2 {
+  gap: 10px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+}
+
+.input.right-icon.large .text-2 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.two-icons.small .text-2 {
+  margin-bottom: -8px;
+  margin-top: -10px;
+}
+
+.input.right-icon.small .text-2 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.default.right-icon .text-2 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.two-icons.rounded.small .text-2 {
+  gap: 5px;
+}
+
+.input.two-icons.rectangle.small .text-2 {
+  gap: 10px;
+}
+
+.input.two-icons.rectangle.large .text-2 {
+  gap: 15px;
+}
+
+.input.two-icons.rounded.large .text-2 {
+  gap: 10px;
+}
+
+.input.large .text-3 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.default .text-3 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.small .text-3 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+}
+
+.input.default .label {
+  flex: 0 0 auto;
+}
+
+.input.left-icon .label {
+  height: 20px;
+}
+
+.input.two-icons .label {
+  height: 20px;
+  padding: 0px 0px 0px 20px;
+}
+
+.input.right-icon .label {
+  height: 20px;
+}
+
+.input.rectangle.large .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.left-icon.light .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.default.left-icon .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.right-icon.large .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.rounded.left-icon .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.rounded.small .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.large.left-icon .label {
+  padding: 0px 0px 0px 20px;
+}
+
+.input.default.rectangle.right-icon .label {
+  padding: 0px 0px 0px 15px;
+}
+
+.input.default.default.rectangle .label {
+  padding: 0px 0px 0px 15px;
+}
+
+.input.default.rounded.large .label {
+  padding: 0px 0px 0px 30px;
+}
+
+.input.default.rounded.right-icon .label {
+  padding: 0px 0px 0px 25px;
+}
+
+.input.default.default.rounded .label {
+  padding: 0px 0px 0px 25px;
+}
+
+.input.rectangle.right-icon.small .label {
+  padding: 0px 0px 0px 15px;
+}
+
+.input.default.small.rectangle .label {
+  padding: 0px 0px 0px 15px;
+}
+
+.input.rectangle.dark.small.left-icon .label {
+  padding: 0px 0px 0px 15px;
+}
+
+.input.light .label-2 {
+  color: var(--gray-bluegrey-blue-50);
+}
+
+.input.large .label-2 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.default .label-2 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.dark .label-2 {
+  color: var(--gray-bluegrey-blue-80);
+}
+
+.input.small.left-icon .label-2 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+}
+
+.input.two-icons.small .label-2 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+}
+
+.input.right-icon.small .label-2 {
+  font-family: var(--black-black-10-font-family);
+  font-size: var(--black-black-10-font-size);
+  font-style: var(--black-black-10-font-style);
+  font-weight: var(--black-black-10-font-weight);
+  letter-spacing: var(--black-black-10-letter-spacing);
+  line-height: var(--black-black-10-line-height);
+}
+
+.input.default.small .label-2 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+}
+
+.input.rounded .div-2 {
+  border-radius: 30px;
+}
+
+.input.light .div-2 {
+  background-color: var(--whitewhite);
+  border-color: var(--gray-bluegrey-blue-97);
+}
+
+.input.large .div-2 {
+  height: 62px;
+}
+
+.input.default .div-2 {
+  gap: 10px;
+}
+
+.input.small .div-2 {
+  height: 42px;
+}
+
+.input.two-icons .div-2 {
+  justify-content: space-between;
+}
+
+.input.default .div-2 {
+  height: 52px;
+}
+
+.input.dark .div-2 {
+  background-color: var(--gray-bluegrey-blue-25);
+  border-color: var(--gray-bluegrey-blue-35);
+}
+
+.input.right-icon .div-2 {
+  justify-content: space-between;
+}
+
+.input.rectangle .div-2 {
+  border-radius: 5px;
+}
+
+.input.default.left-icon .div-2 {
+  gap: 10px;
+}
+
+.input.small.left-icon .div-2 {
+  gap: 10px;
+}
+
+.input.rounded.left-icon .div-2 {
+  gap: 10px;
+}
+
+.input.rectangle.small.left-icon .div-2 {
+  padding: 15px 15px 15px 10px;
+}
+
+.input.large.rounded.right-icon .div-2 {
+  padding: 15px 25px 15px 30px;
+}
+
+.input.default.large.rectangle .div-2 {
+  padding: 20px 30px 20px 20px;
+}
+
+.input.default.rectangle.right-icon .div-2 {
+  padding: 15px 10px 15px 15px;
+}
+
+.input.default.default.rectangle .div-2 {
+  padding: 20px 25px 20px 15px;
+}
+
+.input.default.rounded.large .div-2 {
+  padding: 20px 30px;
+}
+
+.input.rectangle.right-icon.large .div-2 {
+  padding: 15px 15px 15px 20px;
+}
+
+.input.two-icons.rounded.small .div-2 {
+  padding: 15px;
+}
+
+.input.default.rounded.right-icon .div-2 {
+  padding: 15px 20px 15px 25px;
+}
+
+.input.default.rounded.left-icon .div-2 {
+  padding: 15px 40px 15px 20px;
+}
+
+.input.rectangle.large.left-icon .div-2 {
+  gap: 15px;
+  padding: 15px 40px 15px 15px;
+}
+
+.input.default.default.rounded .div-2 {
+  padding: 20px 25px;
+}
+
+.input.two-icons.default.rounded .div-2 {
+  padding: 15px 20px;
+}
+
+.input.default.rectangle.left-icon .div-2 {
+  padding: 15px 40px 15px 15px;
+}
+
+.input.rounded.large.left-icon .div-2 {
+  padding: 15px 40px 15px 25px;
+}
+
+.input.rectangle.right-icon.small .div-2 {
+  padding: 15px 10px 15px 15px;
+}
+
+.input.two-icons.default.rectangle .div-2 {
+  padding: 15px;
+}
+
+.input.two-icons.rectangle.small .div-2 {
+  padding: 15px 10px;
+}
+
+.input.default.small.rectangle .div-2 {
+  padding: 20px 20px 20px 15px;
+}
+
+.input.default.rounded.small .div-2 {
+  padding: 20px;
+}
+
+.input.rounded.small.left-icon .div-2 {
+  padding: 15px;
+}
+
+.input.rounded.small.right-icon .div-2 {
+  padding: 15px 15px 15px 20px;
+}
+
+.input.two-icons.rectangle.large .div-2 {
+  padding: 15px;
+}
+
+.input.two-icons.rounded.large .div-2 {
+  padding: 15px 25px;
+}
+
+.input.large .text-4 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.two-icons .text-4 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.default .text-4 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.right-icon .text-4 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.default.default .text-4 {
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.default.left-icon .text-4 {
+  margin-top: -1px;
+}
+
+.input.small.left-icon .text-4 {
+  font-family: var(--black-black-10-font-family);
+  font-size: var(--black-black-10-font-size);
+  font-style: var(--black-black-10-font-style);
+  font-weight: var(--black-black-10-font-weight);
+  letter-spacing: var(--black-black-10-letter-spacing);
+  line-height: var(--black-black-10-line-height);
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.default.small .text-4 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+  margin-bottom: -7px;
+  margin-top: -11px;
+}
+
+.input.two-icons .text-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.input.right-icon .text-5 {
+  color: var(--gray-bluegrey-blue-70);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input.two-icons.default .text-5 {
+  gap: 10px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+}
+
+.input.right-icon.large .text-5 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.two-icons.small .text-5 {
+  margin-bottom: -8px;
+  margin-top: -10px;
+}
+
+.input.right-icon.small .text-5 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+  margin-bottom: -2px;
+  margin-top: -6px;
+}
+
+.input.default.right-icon .text-5 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+  margin-top: -1px;
+}
+
+.input.two-icons.rounded.small .text-5 {
+  gap: 5px;
+}
+
+.input.two-icons.small.light .text-5 {
+  gap: 5px;
+}
+
+.input.two-icons.rounded.large .text-5 {
+  gap: 10px;
+}
+
+.input.two-icons.large.light .text-5 {
+  gap: 10px;
+}
+
+.input.two-icons.rectangle.dark.large .text-5 {
+  gap: 15px;
+}
+
+.input.two-icons.rectangle.dark.small .text-5 {
+  gap: 10px;
+}
+
+.input.large .text-6 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.default .text-6 {
+  font-family: var(--bold-bold-12-font-family);
+  font-size: var(--bold-bold-12-font-size);
+  font-style: var(--bold-bold-12-font-style);
+  font-weight: var(--bold-bold-12-font-weight);
+  letter-spacing: var(--bold-bold-12-letter-spacing);
+  line-height: var(--bold-bold-12-line-height);
+}
+
+.input.small .text-6 {
+  font-family: var(--bold-bold-10-font-family);
+  font-size: var(--bold-bold-10-font-size);
+  font-style: var(--bold-bold-10-font-style);
+  font-weight: var(--bold-bold-10-font-weight);
+  letter-spacing: var(--bold-bold-10-letter-spacing);
+  line-height: var(--bold-bold-10-line-height);
+}
